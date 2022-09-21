@@ -1,1 +1,1 @@
-print("lorme ipsum dui amet")
+print("lorem ipsum dui amet")
